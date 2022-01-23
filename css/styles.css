@@ -626,6 +626,7 @@ button {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   margin-bottom: 20px;
+  margin-top: 15px;
 }
 
 .subscribe-input {
